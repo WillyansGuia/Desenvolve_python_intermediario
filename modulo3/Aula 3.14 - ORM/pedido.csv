@@ -1,0 +1,1107 @@
+id_pedido,dt_pedido,fl_ketchup,desc_uf,txt_recado
+0,2023-05-11,null,GO,null
+1,2023-05-11,null,PR,Aquela pizza perfeita! :-D
+2,2023-05-11,null,SP,Muito obrigado!!
+3,2023-05-11,null,SP,null
+4,2023-05-11,null,RS,Capricha no peperoni
+5,2023-05-11,null,SP,null
+6,2023-05-11,null,CE,Espero que não dropem minha pizza ^^
+7,2023-05-11,null,SP,Forno a lenha por favor.
+8,2023-05-11,null,GO,null
+9,2023-05-11,TRUE,RJ,null
+10,2023-05-11,TRUE,GO,Amo vocês quero dividir a pizza com vocês ♥️
+11,2023-05-11,TRUE,MG,Certeza que vai ser um evento sensacional como todos os que participei desde quando conheci a LinuxTips. #Vai!!!
+12,2023-05-11,FALSE,SP,Show
+13,2023-05-11,FALSE,RS,Vocês são sensacionais <3
+14,2023-05-11,TRUE,SP,Espero que esta pizza esteja tão boa quanto as outras que vocês servem para comunidade
+15,2023-05-11,FALSE,SP,Capricha!
+16,2023-05-11,FALSE,SP,#VAIIII <3
+17,2023-05-11,FALSE,SP,Quero um evento de pizzas mesmo hahaha ia ser mto mara
+18,2023-05-11,TRUE,SC,null
+19,2023-05-11,TRUE,BA,Aguardando muito esse treinamento. O Téo tem uma excelente didática e o Jeferson como sempre proporcionando conteúdo para os famintos por conhecimento rs.
+20,2023-05-11,TRUE,SP,Brilhem e #VAAAAIIIIIII vocês são fodas
+21,2023-05-11,FALSE,AL,Capricha no peperoni
+22,2023-05-11,TRUE,SP,capricha no queijo :)
+23,2023-05-11,TRUE,PR,null
+24,2023-05-11,FALSE,PR,null
+25,2023-05-11,TRUE,RJ,null
+26,2023-05-11,FALSE,RJ,Gostosa demais!!!
+27,2023-05-11,TRUE,BA,Cuidado com o ponto do camarão.
+28,2023-05-11,FALSE,MG,TOP
+29,2023-05-12,FALSE,SP,Estou com uma festa em casa e o pessoal está cheio de fome. Preciso o mais rápido que possível a pizza é bem recheada. Rápido rápido eles estão aguardando ansiosos!
+30,2023-05-12,TRUE,SP,null
+31,2023-05-12,FALSE,SC,Poderia ter borda de chocolate! Hahaha
+32,2023-05-12,TRUE,RJ,null
+33,2023-05-12,FALSE,MG,null
+34,2023-05-12,TRUE,DF,null
+35,2023-05-12,TRUE,DF,Vocês são FOOOODAS!
+36,2023-05-12,FALSE,PB,vaiiii!
+37,2023-05-12,TRUE,RS,null
+38,2023-05-12,FALSE,BA,Quero saber qual é a forma definitiva da pronúncia de SQL! Abraço!
+39,2023-05-12,FALSE,DF,João 3.16
+40,2023-05-12,TRUE,PR,null
+41,2023-05-12,FALSE,DF,Vocês são demais!
+42,2023-05-12,FALSE,SP,null
+43,2023-05-12,TRUE,SP,Vocês são massa demais inspiração!
+44,2023-05-12,TRUE,SC,null
+45,2023-05-12,TRUE,PR,Tu vai acabar em Pizza !!!
+46,2023-05-12,TRUE,SP,Capricha no queijo!
+47,2023-05-12,FALSE,SP,Capricha no bacon
+48,2023-05-12,TRUE,MS,Eu moro em Lisboa
+49,2023-05-12,TRUE,PI,Muito bacana essa interação!!! Sucesso!!
+50,2023-05-12,TRUE,SP,null
+51,2023-05-12,TRUE,GO,Muito queijo por favor
+52,2023-05-12,TRUE,SP,Sucesso!
+53,2023-05-12,TRUE,SP,Sem cebola rsrsrs
+54,2023-05-12,FALSE,SP,null
+55,2023-05-12,FALSE,SP,Voces sao fera tamo junto!
+56,2023-05-12,TRUE,SC,Entrega na portaria por favor
+57,2023-05-12,TRUE,RS,Os cursos mais fodas estão aqui na LinuxTips!
+58,2023-05-12,FALSE,SP,null
+59,2023-05-12,TRUE,RS,Vaiiiiii
+60,2023-05-12,FALSE,ES,VAIIIII
+61,2023-05-12,FALSE,RJ,null
+62,2023-05-12,TRUE,SC,"Parabéns pela dinâmica deixa ainda mais divertida a tal ""arte de aprender"". Show!!"
+63,2023-05-12,FALSE,SP,Obrigado
+64,2023-05-12,FALSE,PE,null
+65,2023-05-12,FALSE,MT,null
+66,2023-05-12,FALSE,SP,Pizza bem passada
+67,2023-05-12,FALSE,SP,null
+68,2023-05-12,TRUE,SP,null
+69,2023-05-12,FALSE,PE,null
+70,2023-05-12,TRUE,SP,Aí sim trouxe o melhor cara de dados agora só falta a parceria com a Databricks hahaha
+71,2023-05-13,TRUE,SP,Vocês são froids
+72,2023-05-13,FALSE,SP,massa no fogo!
+73,2023-05-13,TRUE,RJ,Quando voces entregam a pizza? (haha)
+74,2023-05-13,FALSE,RN,Boa pra cima!
+75,2023-05-13,FALSE,SP,null
+76,2023-05-13,FALSE,MG,null
+77,2023-05-13,FALSE,MG,Agradeço pela boa vontade em oferecer um curso gratuito
+78,2023-05-13,FALSE,ES,Não deixe queimar a pizza
+79,2023-05-13,TRUE,RJ,Nada de ficar fazendo malabarismo com a massa hein
+80,2023-05-13,FALSE,SP,Sorteia uns cursos pra nós
+81,2023-05-13,TRUE,CE,null
+82,2023-05-13,FALSE,SP,null
+83,2023-05-13,FALSE,RJ,Favor cortar em formato de pentagrama invertido.
+84,2023-05-13,FALSE,DF,null
+85,2023-05-13,TRUE,GO,null
+86,2023-05-13,TRUE,SP,Vai ser demais esse intensivo
+87,2023-05-13,FALSE,SP,null
+88,2023-05-13,TRUE,RJ,null
+89,2023-05-13,FALSE,RJ,null
+90,2023-05-13,TRUE,CE,null
+91,2023-05-13,FALSE,SP,null
+92,2023-05-13,FALSE,PE,null
+93,2023-05-13,FALSE,SP,null
+94,2023-05-13,TRUE,RN,Essas iniciativas ajudam bastante quem tá na correria do dia-a-dia para tentar da uma vida melhor para a família e tem que enfrentar os obstáculos da vida parabéns pela iniciativa muito obrigado pela oportunidade!
+95,2023-05-13,FALSE,MT,Gosto da minha pizza com massa fina e crocante e os ingredientes da cobertura não podem ser em excesso onde o sabor de um se sobressai ao outro.
+96,2023-05-13,TRUE,PI,null
+97,2023-05-13,FALSE,CE,null
+98,2023-05-13,FALSE,MG,Sem cebola
+99,2023-05-13,FALSE,PR,Só agradecer e dizer que o Téo é o Calvo mais cabeludo que eu já vi. rs
+100,2023-05-13,TRUE,SP,Quero bacon em pedaços não em fatias obrigado!
+101,2023-05-13,FALSE,SP,Arrasa !
+102,2023-05-13,TRUE,RJ,null
+103,2023-05-13,FALSE,GO,Me contrata nunca pedi nada!
+104,2023-05-13,FALSE,SP,null
+105,2023-05-13,FALSE,CE,null
+106,2023-05-13,TRUE,GO,null
+107,2023-05-13,FALSE,PR,null
+108,2023-05-13,TRUE,RS,null
+109,2023-05-13,FALSE,CE,Faltou o refrigerante zero
+110,2023-05-13,TRUE,ES,null
+111,2023-05-13,FALSE,SP,null
+112,2023-05-13,TRUE,MG,Capricha na cogumelo e se possívle faz a pizza a palito. Parabéns pelo material que oferem é incrivel.
+113,2023-05-14,TRUE,SP,Só aguardando o preparo da pizza com o capricho de sempre! Vaaaiiii!!!
+114,2023-05-14,FALSE,RJ,SQL - Salve Querido Linuxtips
+115,2023-05-14,TRUE,PR,Vai acabar tudo em Pizza !!!
+116,2023-05-14,FALSE,BA,Tem que chegar quente!
+117,2023-05-14,FALSE,SP,null
+118,2023-05-14,TRUE,PB,Capricha no gorgonzola e manda sachê de mostarda porfavor
+119,2023-05-14,FALSE,RS,null
+120,2023-05-14,FALSE,RJ,Caprichem hein!!
+121,2023-05-14,TRUE,SP,Capricha na PIZZA!!!
+122,2023-05-14,TRUE,RJ,null
+123,2023-05-14,TRUE,PA,null
+124,2023-05-14,FALSE,ES,me vê uma none pizza with left beef
+125,2023-05-14,TRUE,SP,null
+126,2023-05-14,TRUE,GO,Bota pra assar!!!
+127,2023-05-14,FALSE,SP,Obrigada por disponibilizar conteúdos f*das para todos! Espero conseguir chegar no nível de vocês para também compartilhar conhecimento! Um abraço Adelita.
+128,2023-05-14,FALSE,SP,Estou ansioso para o treinamento
+129,2023-05-14,TRUE,GO,null
+130,2023-05-14,FALSE,SP,null
+131,2023-05-14,FALSE,RJ,Favor adicionar orégano e pouco molho de tomate! Obrigada!
+132,2023-05-14,TRUE,GO,Pizza que é good nois não have
+133,2023-05-14,TRUE,GO,null
+134,2023-05-14,FALSE,RS,"Explica de vagar por que eu não entendo nada. Parabéns pessoal! Até breve!"""
+135,2023-05-15,TRUE,PE,null
+136,2023-05-15,TRUE,SP,null
+137,2023-05-15,TRUE,RJ,Me parece que o comunismo cresce
+138,2023-05-15,TRUE,MG,null
+139,2023-05-15,TRUE,PR,null
+140,2023-05-15,TRUE,SP,N
+141,2023-05-15,TRUE,PR,null
+142,2023-05-15,FALSE,SC,null
+143,2023-05-15,FALSE,PR,VAIIII!!!
+144,2023-05-15,FALSE,MG,null
+145,2023-05-15,TRUE,RS,null
+146,2023-05-15,TRUE,CE,null
+147,2023-05-15,TRUE,RJ,null
+148,2023-05-15,TRUE,RJ,null
+149,2023-05-15,FALSE,MG,Bota queijo vegano na próxima pesquisa hehehehe
+150,2023-05-15,TRUE,MG,null
+151,2023-05-15,TRUE,BA,null
+152,2023-05-15,FALSE,SP,null
+153,2023-05-15,FALSE,ES,É uma pizza vegana.
+154,2023-05-15,FALSE,CE,Vcs são muito massa! 😎😎
+155,2023-05-15,TRUE,DF,Refrigerante zero! :)
+156,2023-05-15,TRUE,PB,null
+157,2023-05-15,FALSE,PR,Queroe al bem tostada por gentileza e com bastante manjericão
+158,2023-05-15,FALSE,SP,null
+159,2023-05-15,TRUE,ES,null
+160,2023-05-15,FALSE,MT,Quentinha valeu!
+161,2023-05-15,FALSE,MT,null
+162,2023-05-15,FALSE,PR,null
+163,2023-05-15,TRUE,BA,Fazer a pizza em forno a lenha.
+164,2023-05-15,TRUE,SP,null
+165,2023-05-15,FALSE,RS,null
+166,2023-05-15,FALSE,SP,null
+167,2023-05-15,TRUE,RO,null
+168,2023-05-15,FALSE,SC,null
+169,2023-05-15,FALSE,MG,null
+170,2023-05-15,TRUE,RS,Vamos a todo vapooor!!!
+171,2023-05-15,FALSE,DF,null
+172,2023-05-16,TRUE,ES,Let's go
+173,2023-05-16,TRUE,SP,Obrigado
+174,2023-05-16,TRUE,RJ,null
+175,2023-05-16,FALSE,SP,Capricha na mussarela
+176,2023-05-16,FALSE,RJ,Obrigada
+177,2023-05-16,TRUE,CE,null
+178,2023-05-16,FALSE,SP,null
+179,2023-05-16,TRUE,RN,null
+180,2023-05-16,TRUE,PE,Espero q entregue em Pernambuco.
+181,2023-05-16,TRUE,SP,null
+182,2023-05-16,TRUE,RJ,Parabéns pela iniciativa MASSA :D
+183,2023-05-16,FALSE,RS,null
+184,2023-05-16,TRUE,SP,null
+185,2023-05-16,TRUE,MT,De da Água na Boca
+186,2023-05-16,FALSE,MG,null
+187,2023-05-16,FALSE,SP,Fazer pizza é tão simples quanto voar. VAAIIII
+188,2023-05-16,TRUE,PR,null
+189,2023-05-16,FALSE,SP,null
+190,2023-05-16,FALSE,SP,null
+191,2023-05-16,TRUE,SC,null
+192,2023-05-16,TRUE,RS,Capricha nos quejos! hahah
+193,2023-05-16,TRUE,MG,#VAAAI
+194,2023-05-16,FALSE,SP,null
+195,2023-05-16,FALSE,RS,Desejo a todos uma linda e rica experiência.  Obrigada pela oportunidade!
+196,2023-05-16,TRUE,BA,null
+197,2023-05-16,TRUE,MT,null
+198,2023-05-16,FALSE,RS,null
+199,2023-05-16,TRUE,MG,null
+200,2023-05-16,TRUE,BA,inclua nesse pedido uma porção grande de aprendizado
+201,2023-05-16,TRUE,MA,Obligado
+202,2023-05-16,TRUE,SP,entrega do projeto pontual. vaaaiii!
+203,2023-05-16,FALSE,SP,null
+204,2023-05-16,FALSE,SP,null
+205,2023-05-16,FALSE,SP,#Vaaaaaaaaaaai
+206,2023-05-16,FALSE,SP,null
+207,2023-05-16,TRUE,RJ,null
+208,2023-05-16,FALSE,PR,null
+209,2023-05-16,TRUE,SE,Iniciativas como essas tá ajudando muito nesse momento de lay off onde as empresas passaram a pedir SQL. Muito obrigada pela oportunidade de aprender com vocês!
+210,2023-05-16,FALSE,PE,brabos dms
+211,2023-05-16,TRUE,GO,Zika da Galáxia
+212,2023-05-16,TRUE,RJ,null
+213,2023-05-16,FALSE,CE,Não se preocupem vou esperar na portaria entregador não precisa e não deve subir! :]
+214,2023-05-16,TRUE,MG,null
+215,2023-05-17,FALSE,SP,vocês são demais quero apresender cada vez mais com vocês
+216,2023-05-17,FALSE,SP,Mamma mia
+217,2023-05-17,TRUE,SP,Caprichar na Cebola
+218,2023-05-17,TRUE,MG,null
+219,2023-05-17,FALSE,SC,Caprichem no recheio! :D
+220,2023-05-17,TRUE,RJ,null
+221,2023-05-17,FALSE,PR,Pra cima piázada! Evento será top!
+222,2023-05-17,FALSE,SC,Bora la
+223,2023-05-17,TRUE,SC,Capricha no recheio!
+224,2023-05-17,FALSE,MG,Caprichar no recheio
+225,2023-05-17,FALSE,PE,caprichem!
+226,2023-05-17,FALSE,SP,null
+227,2023-05-17,TRUE,PE,null
+228,2023-05-17,TRUE,CE,null
+229,2023-05-17,FALSE,MG,Se tiver maionese temperada eu aceito.
+230,2023-05-17,FALSE,PR,null
+231,2023-05-17,FALSE,BA,null
+232,2023-05-17,TRUE,RJ,null
+233,2023-05-17,FALSE,AL,VAI!!
+234,2023-05-17,FALSE,SP,null
+235,2023-05-17,FALSE,SP,Mamamia
+236,2023-05-17,TRUE,RN,Mostarda também!
+237,2023-05-17,TRUE,PE,null
+238,2023-05-17,FALSE,SP,null
+239,2023-05-17,FALSE,PE,null
+240,2023-05-17,FALSE,PE,null
+241,2023-05-17,TRUE,SP,Cadê as opções de Pizza Vegan? cadê o manjericão?
+242,2023-05-17,FALSE,SP,null
+243,2023-05-17,TRUE,RJ,Não.
+244,2023-05-17,TRUE,SP,null
+245,2023-05-17,TRUE,ES,null
+246,2023-05-18,TRUE,SP,#VAAAAAI
+247,2023-05-18,TRUE,CE,favor enviar o maionese e ketchup
+248,2023-05-18,FALSE,PB,null
+249,2023-05-18,FALSE,RS,null
+250,2023-05-18,FALSE,RS,null
+251,2023-05-18,TRUE,RS,null
+252,2023-05-18,TRUE,SP,null
+253,2023-05-18,TRUE,RO,Capricha na borda
+254,2023-05-18,FALSE,RS,null
+255,2023-05-18,FALSE,SP,null
+256,2023-05-18,TRUE,GO,null
+257,2023-05-18,TRUE,SP,Confio na tua habilidade.
+258,2023-05-18,TRUE,SP,null
+259,2023-05-18,TRUE,SP,Por que não inovar e começar usar borda de chocolate na pizza salgada? Rs
+260,2023-05-18,FALSE,DF,Capricha !!!
+261,2023-05-18,FALSE,SC,null
+262,2023-05-18,FALSE,PE,null
+263,2023-05-18,FALSE,AL,null
+264,2023-05-18,FALSE,PE,null
+265,2023-05-19,FALSE,PI,Nao economiza no cheddar
+266,2023-05-19,FALSE,SP,null
+267,2023-05-19,TRUE,BA,null
+268,2023-05-19,FALSE,RJ,null
+269,2023-05-19,TRUE,SE,Capricha no queijo de Cabra por favor!
+270,2023-05-19,FALSE,RJ,null
+271,2023-05-19,TRUE,SP,null
+272,2023-05-19,FALSE,SP,Capricha
+273,2023-05-19,FALSE,SP,pizza grande por favor
+274,2023-05-19,FALSE,MG,null
+275,2023-05-19,FALSE,SP,null
+276,2023-05-19,TRUE,SP,null
+277,2023-05-19,TRUE,MA,null
+278,2023-05-19,FALSE,BA,null
+279,2023-05-19,TRUE,PR,null
+280,2023-05-19,FALSE,SP,Muito obrigado pelo seu esforço em nos passar conteúdo gratuito.
+281,2023-05-19,TRUE,GO,Vcs são feras!
+282,2023-05-19,FALSE,BA,null
+283,2023-05-19,FALSE,SP,Massa fina!
+284,2023-05-19,TRUE,SP,Capricha na pimenta! Tks
+285,2023-05-20,FALSE,TO,null
+286,2023-05-20,FALSE,PE,null
+287,2023-05-20,FALSE,MG,null
+288,2023-05-20,FALSE,SP,Já acompanho ambos nas redes sociais. Parabéns pelo trabalho dos dois. Muito obrigado pelo workshop gratuito!
+289,2023-05-20,TRUE,PR,null
+290,2023-05-20,FALSE,SP,Capricha no recheio aê
+291,2023-05-21,TRUE,MG,null
+292,2023-05-21,FALSE,RN,null
+293,2023-05-21,FALSE,RJ,Vocês são fodas! A linuxtips é foda!
+294,2023-05-21,TRUE,RS,null
+295,2023-05-21,TRUE,RJ,Continuem com o trabalho FODASTICOO
+296,2023-05-21,TRUE,SP,null
+297,2023-05-22,FALSE,MT,É a primeira pizza com brócolis que peço estou curiosa (sou péssima em combinações culinárias).
+298,2023-05-22,FALSE,RJ,Agradeço a vocês pelo o que estão oferecendo.
+299,2023-05-22,TRUE,RJ,null
+300,2023-05-22,TRUE,MG,null
+301,2023-05-22,TRUE,RJ,Fatiado em 8 pedaços por favor (: hahah
+302,2023-05-22,FALSE,DF,Me ajuda na transição de carreira
+303,2023-05-22,TRUE,SP,Bora comer essa pizza?!
+304,2023-05-22,FALSE,GO,Ansioso!!
+305,2023-05-22,TRUE,SC,null
+306,2023-05-22,TRUE,PA,#VAAAAIII
+307,2023-05-22,FALSE,SP,Sucesso
+308,2023-05-22,TRUE,SP,Estou ansiosa para comer essa pizza rsrsr
+309,2023-05-22,TRUE,RJ,null
+310,2023-05-22,TRUE,MG,null
+311,2023-05-22,FALSE,SP,null
+312,2023-05-23,FALSE,SP,S2
+313,2023-05-23,FALSE,RJ,null
+314,2023-05-23,FALSE,PR,Brabos
+315,2023-05-23,TRUE,AM,Para viagem por favor!
+316,2023-05-23,TRUE,MG,null
+317,2023-05-23,TRUE,ES,null
+318,2023-05-23,TRUE,RS,null
+319,2023-05-23,FALSE,PB,Caprichem no curso digo na pizza!
+320,2023-05-23,TRUE,SE,null
+321,2023-05-23,TRUE,ES,null
+322,2023-05-23,FALSE,SP,null
+323,2023-05-23,FALSE,MG,Um abraço do Lucas Carlos
+324,2023-05-23,TRUE,MA,Sua Pizzazinha é uma delícinha
+325,2023-05-23,TRUE,RJ,Obrigado pela iniciativa o Téo Calvo é nota 1000
+326,2023-05-23,TRUE,MG,null
+327,2023-05-23,TRUE,GO,Fiquei triste por não ter borda doce :/ Parabéns pelo projeto vocês são demais!
+328,2023-05-23,TRUE,SP,null
+329,2023-05-23,TRUE,RJ,null
+330,2023-05-23,TRUE,SP,Capricha no bacon aí
+331,2023-05-23,TRUE,AL,"Pizza tem recheio ou cobertura? Sucesso! vocês são brabos."""
+332,2023-05-23,TRUE,SC,Ansiosa .
+333,2023-05-23,FALSE,PE,null
+334,2023-05-23,TRUE,GO,Capricha na borda de Cream Cheese
+335,2023-05-23,TRUE,MG,null
+336,2023-05-23,TRUE,RS,Mamma Mia!
+337,2023-05-23,FALSE,SP,null
+338,2023-05-23,TRUE,GO,Parabens pela iniciativa pizzaiolos bonitos!!!!!
+339,2023-05-23,TRUE,SP,null
+340,2023-05-23,TRUE,PR,Queijo veg pls
+341,2023-05-23,FALSE,SP,Venceremos!
+342,2023-05-23,TRUE,MG,null
+343,2023-05-23,FALSE,SP,null
+344,2023-05-23,FALSE,RJ,null
+345,2023-05-23,FALSE,BA,Massa fina por favor! Risos!
+346,2023-05-23,FALSE,SP,Capricha na borda! No Ketchup rs
+347,2023-05-23,FALSE,SP,null
+348,2023-05-23,FALSE,SC,null
+349,2023-05-23,FALSE,SP,Entrega rapida por favor
+350,2023-05-23,FALSE,SP,null
+351,2023-05-23,TRUE,ES,Desejo-lhes muita paz de espírito para poder ministrar as aulas com sabedoria.
+352,2023-05-23,TRUE,AC,null
+353,2023-05-23,FALSE,MT,null
+354,2023-05-23,FALSE,SP,null
+355,2023-05-23,FALSE,RJ,Enche de queijo
+356,2023-05-23,TRUE,MG,null
+357,2023-05-23,FALSE,PR,null
+358,2023-05-23,FALSE,MG,null
+359,2023-05-23,FALSE,SP,No capricho
+360,2023-05-23,TRUE,GO,null
+361,2023-05-23,TRUE,MG,null
+362,2023-05-23,TRUE,SP,Capricha no bacon!
+363,2023-05-23,FALSE,SC,Valeu pessoal vocês são feras!
+364,2023-05-23,TRUE,RJ,Vocês são brabos!!!
+365,2023-05-23,FALSE,SP,null
+366,2023-05-23,FALSE,RJ,null
+367,2023-05-23,FALSE,SP,estou FAMINTO para aprender SQL!!
+368,2023-05-23,FALSE,BA,null
+369,2023-05-23,FALSE,MG,null
+370,2023-05-23,FALSE,RJ,Vamos por a mão na massa!!!!!
+371,2023-05-23,TRUE,MG,null
+372,2023-05-23,FALSE,RJ,Pizza se come com a mão! Abraço do pessoal de estatística da ufjf! R+Python+SQL
+373,2023-05-23,TRUE,DF,Caprichem na mussarela.
+374,2023-05-23,FALSE,RN,Faltou o tamanho quantidade e se era rodízio ou não.
+375,2023-05-23,TRUE,CE,Quero ligeiro
+376,2023-05-23,FALSE,SP,null
+377,2023-05-23,TRUE,CE,Fome!!!!!!!!!!!!!! rsrsrsrs
+378,2023-05-23,FALSE,MG,null
+379,2023-05-23,FALSE,SP,Um beijo pra vocês!!!
+380,2023-05-23,FALSE,ES,Obrigado pela aula!
+381,2023-05-23,FALSE,SP,null
+382,2023-05-23,FALSE,ES,null
+383,2023-05-23,TRUE,BA,Assa essa aí com carinho
+384,2023-05-23,FALSE,SP,Que seja una Bella Pizza!!!!
+385,2023-05-23,FALSE,PR,null
+386,2023-05-23,FALSE,MG,null
+387,2023-05-23,FALSE,SP,null
+388,2023-05-23,TRUE,SC,null
+389,2023-05-23,TRUE,SP,Gostaria do recheio de maneira uniforme e fazer a cara do mickey com a linguiça calabresa defumada.
+390,2023-05-23,FALSE,SP,null
+391,2023-05-23,TRUE,SP,null
+392,2023-05-23,FALSE,CE,null
+393,2023-05-23,FALSE,DF,a excelência na qualidade fideliza clientes
+394,2023-05-23,TRUE,RJ,Mande bem crocante!
+395,2023-05-23,TRUE,SC,null
+396,2023-05-23,FALSE,SC,null
+397,2023-05-23,TRUE,PA,Pode caprichar no bacon
+398,2023-05-23,FALSE,ES,null
+399,2023-05-23,TRUE,PR,null
+400,2023-05-23,TRUE,SC,null
+401,2023-05-23,TRUE,MG,Olá gostaria de entender como é feita a integração do banco de dados com um programa em python.
+402,2023-05-23,TRUE,SP,null
+403,2023-05-23,TRUE,RJ,null
+404,2023-05-23,FALSE,RJ,Capricha que hoje estou triste!
+405,2023-05-23,TRUE,PR,null
+406,2023-05-23,TRUE,SP,null
+407,2023-05-23,TRUE,RJ,Ansiosa pra conhecer a dinâmica da Pizza Query! :)
+408,2023-05-23,FALSE,SP,null
+409,2023-05-23,FALSE,SP,Por favor não queime as bordas não acrescente cebola nem cebolinha (por engano) mas se tiver manjericão pode acrescentar.
+410,2023-05-23,TRUE,PR,Vaaaaaiiiii!
+411,2023-05-23,FALSE,MG,Parabéns pela iniciativa e continuem fornecendo um conteúdo tão precioso como esse! O mundo agradece
+412,2023-05-23,FALSE,SP,Entrega rápida estou morrendo de fome!!!!!
+413,2023-05-23,FALSE,SP,null
+414,2023-05-23,FALSE,SP,Gratina o queijo e por favor deixe a base da massa crocante
+415,2023-05-23,TRUE,ES,null
+416,2023-05-23,FALSE,RJ,null
+417,2023-05-23,FALSE,PR,null
+418,2023-05-23,TRUE,RJ,null
+419,2023-05-23,FALSE,SP,null
+420,2023-05-23,FALSE,SP,null
+421,2023-05-23,TRUE,SP,null
+422,2023-05-23,TRUE,SP,null
+423,2023-05-23,FALSE,PB,Valeu!
+424,2023-05-23,FALSE,MG,null
+425,2023-05-23,TRUE,RJ,null
+426,2023-05-23,FALSE,PR,null
+427,2023-05-23,FALSE,SP,De a ordem camaradas
+428,2023-05-23,TRUE,RJ,null
+429,2023-05-23,TRUE,MG,null
+430,2023-05-23,FALSE,BA,forno aceso aqui no Bairro de Brotas na cidade de Salvador na Bahia.
+431,2023-05-23,FALSE,SC,null
+432,2023-05-23,FALSE,SP,Capricha na borda chefe!
+433,2023-05-23,FALSE,RJ,null
+434,2023-05-23,TRUE,MG,null
+435,2023-05-23,FALSE,RS,null
+436,2023-05-23,TRUE,SC,null
+437,2023-05-23,FALSE,SP,null
+438,2023-05-23,FALSE,SP,Salve!
+439,2023-05-23,FALSE,PR,Tão contratando ajudante de pizzaiolo?
+440,2023-05-23,TRUE,PE,que a pizza chegue quentinha na minha casa por favor
+441,2023-05-23,TRUE,SP,null
+442,2023-05-23,TRUE,PR,Fiquei com fome respondendo esse formulário...
+443,2023-05-23,TRUE,RJ,"Faltou o ""Frango com catupiry"" =("
+444,2023-05-23,FALSE,SP,Vai ter sorteio de vale-pizza para os participantes?
+445,2023-05-23,TRUE,SC,Caprichem no recheio
+446,2023-05-23,TRUE,MG,null
+447,2023-05-23,TRUE,RS,null
+448,2023-05-23,TRUE,BA,null
+449,2023-05-23,TRUE,CE,null
+450,2023-05-23,TRUE,RN,Vai!!!!!!!
+451,2023-05-23,TRUE,DF,null
+452,2023-05-23,FALSE,PR,null
+453,2023-05-23,FALSE,SP,Boa pizza!
+454,2023-05-23,FALSE,SP,null
+455,2023-05-23,FALSE,SP,puta falta de sacanagem so tenho 13 reais no vr (minhadona aqui) e vcs vem com PIZZA p ensinar a não é possiver
+456,2023-05-23,FALSE,SP,Bora pra cima
+457,2023-05-23,TRUE,MG,Capricha!
+458,2023-05-23,FALSE,MG,null
+459,2023-05-23,FALSE,SP,null
+460,2023-05-23,FALSE,SP,null
+461,2023-05-23,TRUE,AM,Vamos nessa! E fazer a melhor pizza do mundo.
+462,2023-05-23,FALSE,PE,Preparem a larica que eu tô chegando com o salve!
+463,2023-05-23,TRUE,PE,Faltou o ingrediente molho de tomate kkkkk S2
+464,2023-05-23,FALSE,CE,null
+465,2023-05-23,TRUE,CE,null
+466,2023-05-23,TRUE,RJ,Gratidão!
+467,2023-05-23,FALSE,CE,null
+468,2023-05-23,FALSE,SP,null
+469,2023-05-23,TRUE,RJ,null
+470,2023-05-23,FALSE,SP,não queima a parte de baixo
+471,2023-05-23,TRUE,ES,null
+472,2023-05-23,TRUE,ES,"SELECT fAprendizado FROM melhorlivedemaio"""
+473,2023-05-23,TRUE,ES,Boa sorte rs
+474,2023-05-23,FALSE,SP,null
+475,2023-05-23,FALSE,SP,Bora por a mão na massa!
+476,2023-05-23,FALSE,SP,#PIZZATIME...VAIII
+477,2023-05-23,TRUE,SP,null
+478,2023-05-23,FALSE,SP,Ketchup na pizza é crime!!!!
+479,2023-05-23,FALSE,PE,null
+480,2023-05-23,FALSE,SE,null
+481,2023-05-23,TRUE,SC,<3
+482,2023-05-23,TRUE,RS,null
+483,2023-05-23,FALSE,MS,Borda com cerveja
+484,2023-05-23,TRUE,PR,null
+485,2023-05-23,TRUE,SP,null
+486,2023-05-23,TRUE,SP,Capricha nos recheios
+487,2023-05-23,FALSE,SP,Massa bem passada e SQL turbinado Tela
+488,2023-05-23,FALSE,PE,null
+489,2023-05-23,TRUE,RJ,A semana vai terminar em pizza?!! ;)
+490,2023-05-23,FALSE,BA,null
+491,2023-05-23,TRUE,SP,Faça bem feito! haha
+492,2023-05-24,FALSE,PR,Quero
+493,2023-05-24,TRUE,MG,Bem dourada!
+494,2023-05-24,TRUE,CE,Vocês são demais.  Vaiiii
+495,2023-05-24,FALSE,SP,Faltou o exilados da gringa no estado que você mora rsrsrs ansioso pro treinamento!
+496,2023-05-24,TRUE,PB,null
+497,2023-05-24,TRUE,SP,null
+498,2023-05-24,TRUE,RJ,null
+499,2023-05-24,FALSE,DF,Arriba! Andale
+500,2023-05-24,TRUE,SP,No capricho. Fome de conhecimento
+501,2023-05-24,FALSE,SC,Deixa a massa bem no ponto sem deixar passar o restante dos ingredientes
+502,2023-05-24,TRUE,MG,Vcs são foda!
+503,2023-05-24,FALSE,SP,null
+504,2023-05-24,FALSE,SP,To com fome
+505,2023-05-24,FALSE,SP,Vocês são uns lindos
+506,2023-05-24,FALSE,RS,Fatiar a pizza em apenas quatro partes.
+507,2023-05-24,FALSE,MG,null
+508,2023-05-24,TRUE,PR,null
+509,2023-05-24,TRUE,SE,Capricha no catupiry.
+510,2023-05-24,TRUE,SP,Bora para cima mano é nois!!!
+511,2023-05-24,TRUE,CE,null
+512,2023-05-24,TRUE,SP,A pizza vai ser brinde?? Ahaha
+513,2023-05-24,TRUE,SP,Queremos desconto
+514,2023-05-24,TRUE,SP,Capricha na borda!
+515,2023-05-24,FALSE,MG,null
+516,2023-05-24,FALSE,DF,null
+517,2023-05-24,FALSE,SP,null
+518,2023-05-24,FALSE,MG,Parabéns por mais essa iniciativa e fogo nos racistas!
+519,2023-05-24,FALSE,SP,null
+520,2023-05-24,FALSE,SP,Capricha no recheio por favor.
+521,2023-05-24,TRUE,BA,null
+522,2023-05-24,TRUE,BA,Que massa!!!
+523,2023-05-24,TRUE,MG,null
+524,2023-05-24,TRUE,SP,Sacanagem ter que preencher isso aqui na hora do almoço! hahaha
+525,2023-05-24,TRUE,GO,null
+526,2023-05-24,FALSE,SP,Teo me Why!!!!!!
+527,2023-05-24,TRUE,PR,Capricha no abacaxi pleaaseee
+528,2023-05-24,TRUE,RJ,null
+529,2023-05-24,FALSE,SP,null
+530,2023-05-24,FALSE,PE,null
+531,2023-05-24,FALSE,SP,null
+532,2023-05-24,FALSE,SP,null
+533,2023-05-24,FALSE,SC,É a pizza dos meus sonhos
+534,2023-05-24,TRUE,SP,null
+535,2023-05-24,FALSE,SP,Na parte do ingrediente 5 por favor trocar o roquefort por gorgonzola por favor.
+536,2023-05-24,TRUE,SE,null
+537,2023-05-24,FALSE,SP,Capricha!
+538,2023-05-24,TRUE,PR,null
+539,2023-05-24,FALSE,CE,Parabens pelo trabalho galera!
+540,2023-05-24,FALSE,SP,Vcs são foda!
+541,2023-05-24,TRUE,PR,Capricha!
+542,2023-05-24,TRUE,BA,null
+543,2023-05-24,FALSE,SP,Capricha na cebola por gentileza
+544,2023-05-24,FALSE,SP,null
+545,2023-05-24,FALSE,SC,null
+546,2023-05-24,FALSE,SP,Vocês fazem um trabalho bom demais
+547,2023-05-24,TRUE,SP,null
+548,2023-05-24,TRUE,SP,null
+549,2023-05-24,TRUE,SP,Capricha na azeitona
+550,2023-05-24,FALSE,PE,null
+551,2023-05-24,FALSE,SP,null
+552,2023-05-24,FALSE,ES,null
+553,2023-05-24,TRUE,PE,Quero que chegue quentinha !
+554,2023-05-24,TRUE,SP,null
+555,2023-05-24,FALSE,MG,Senti falta da opção presunto parma!!
+556,2023-05-24,FALSE,DF,null
+557,2023-05-24,TRUE,CE,null
+558,2023-05-24,FALSE,PE,"Escreve ""Te amo"" com ketchup por favor. É pra minha namorada."
+559,2023-05-24,FALSE,SP,Faltou manjericão!
+560,2023-05-24,FALSE,RJ,null
+561,2023-05-24,FALSE,ES,Sucesso nessa nova pizzaria! Capricha no queijo
+562,2023-05-24,TRUE,SP,Capricha.
+563,2023-05-24,FALSE,MG,Sem cebola sou alérgico
+564,2023-05-24,FALSE,SP,Capricha na cebola!
+565,2023-05-24,FALSE,SP,null
+566,2023-05-24,TRUE,PE,Pode caprichar no queijo
+567,2023-05-24,FALSE,SP,Fique com fominha ... e agora ? Quanto tempo a entrega ?
+568,2023-05-24,FALSE,SP,null
+569,2023-05-24,FALSE,MS,Massa crocante nada de queimado nas bordas.
+570,2023-05-24,TRUE,CE,null
+571,2023-05-24,FALSE,SP,null
+572,2023-05-24,FALSE,SP,Muito legal!
+573,2023-05-24,TRUE,AL,null
+574,2023-05-24,FALSE,BA,Vocês são fod@!
+575,2023-05-24,FALSE,SP,Espero que a pergunta sobre o ketchup seja para julgamento!!!!!!!!!
+576,2023-05-24,FALSE,SP,Manda pizza!
+577,2023-05-24,TRUE,SP,null
+578,2023-05-24,TRUE,SP,Não
+579,2023-05-24,TRUE,RJ,Ketchup na pizza sim 😊
+580,2023-05-24,TRUE,RJ,Capricha no molho de tomate kkk
+581,2023-05-24,TRUE,DF,Faltou aquela pizza doce :)
+582,2023-05-24,FALSE,SP,Faltou manjericão. Boa aula!
+583,2023-05-24,FALSE,SP,null
+584,2023-05-24,FALSE,SP,null
+585,2023-05-24,TRUE,SP,Por favor capricha no recheio chefe!
+586,2023-05-24,TRUE,ES,Pode caprichar na borda e no Bacon
+587,2023-05-24,FALSE,BA,Parabéns pelo trampo!
+588,2023-05-24,FALSE,SP,Obrigado por contribuírem tanto para a comunidade!
+589,2023-05-24,FALSE,SP,null
+590,2023-05-24,TRUE,RJ,Parabéns!!
+591,2023-05-24,FALSE,SP,sacanagem responder esse forms deu fome hahahah
+592,2023-05-24,FALSE,SP,null
+593,2023-05-24,TRUE,RJ,Boas fornadas!!
+594,2023-05-24,FALSE,SP,null
+595,2023-05-24,FALSE,RS,#venceremos
+596,2023-05-24,TRUE,RJ,null
+597,2023-05-24,FALSE,DF,Que seja assada no forno de lenha!
+598,2023-05-24,TRUE,GO,Faltou borda de chocolate em
+599,2023-05-24,TRUE,SC,Dobro de recheio
+600,2023-05-24,FALSE,SP,null
+601,2023-05-24,FALSE,SP,null
+602,2023-05-24,FALSE,RS,Prepara a pizza para viagem!
+603,2023-05-24,TRUE,PR,null
+604,2023-05-24,FALSE,SP,null
+605,2023-05-24,FALSE,SP,null
+606,2023-05-24,FALSE,MG,null
+607,2023-05-24,TRUE,SP,Por Favor sem cebola em hipótese nenhuma!
+608,2023-05-24,FALSE,SP,Sem cebola kkk
+609,2023-05-24,FALSE,SP,null
+610,2023-05-24,FALSE,RJ,#Vaai!!
+611,2023-05-24,FALSE,PB,massa bem tostada por favor.
+612,2023-05-24,FALSE,PR,Continuem mandando esse conteúdo de qualidade manos!
+613,2023-05-24,FALSE,SP,Gosto da massa mais ao ponto não gosto dela crocante
+614,2023-05-24,TRUE,DF,Faz um portuguesa
+615,2023-05-24,TRUE,AL,Não queimem a pizza
+616,2023-05-24,TRUE,RJ,null
+617,2023-05-24,FALSE,AL,o/
+618,2023-05-24,TRUE,RN,null
+619,2023-05-24,TRUE,MG,null
+620,2023-05-24,TRUE,RJ,Capricha no milho
+621,2023-05-24,FALSE,RJ,Amo vocês!
+622,2023-05-24,FALSE,DF,null
+623,2023-05-24,FALSE,MT,Tô com fomeee!
+624,2023-05-24,FALSE,RN,null
+625,2023-05-24,FALSE,SP,Muito obrigado!
+626,2023-05-24,FALSE,SP,null
+627,2023-05-24,FALSE,SP,null
+628,2023-05-24,FALSE,MG,null
+629,2023-05-24,FALSE,PR,Água sem Gás
+630,2023-05-24,TRUE,PE,null
+631,2023-05-24,TRUE,SC,oiee
+632,2023-05-24,TRUE,MT,null
+633,2023-05-24,FALSE,RJ,tomate seco caseiro feito no forno
+634,2023-05-24,FALSE,SP,Capricha no queijo
+635,2023-05-24,FALSE,DF,Faça a pizza com muito amor e update sem esquecer de quando fazer delete antes do where coloque o not no meu coração.
+636,2023-05-24,FALSE,PR,VAAAAAAI
+637,2023-05-24,TRUE,CE,null
+638,2023-05-24,TRUE,PE,null
+639,2023-05-24,TRUE,MG,SEUS LINDOOOOOSSSSSSS
+640,2023-05-24,TRUE,SP,Suco sem açúcar
+641,2023-05-24,TRUE,SC,null
+642,2023-05-24,FALSE,SP,null
+643,2023-05-24,FALSE,AL,Somente os parabéns !
+644,2023-05-24,TRUE,PR,Capricha nessa 🍕
+645,2023-05-24,TRUE,CE,Vai da Bom!!!
+646,2023-05-24,TRUE,SP,Conseguem entregar até às 21hs?! Valeuuuu
+647,2023-05-24,FALSE,SP,Hipótese 1: alto índice de ketchup em RJ rsrs
+648,2023-05-24,FALSE,SP,null
+649,2023-05-24,FALSE,PR,null
+650,2023-05-24,FALSE,RS,capricha mestre 🙌🙌
+651,2023-05-24,FALSE,SP,null
+652,2023-05-24,TRUE,SP,null
+653,2023-05-24,TRUE,GO,null
+654,2023-05-24,TRUE,AC,para entregar na rua do calvo no acre
+655,2023-05-24,TRUE,PR,Parabéns pelo baita trabalho
+656,2023-05-24,FALSE,PE,Vcs são demais! Agradecida por mais essa oportunidade de evolução! Mais um treinamento no capricho! <3
+657,2023-05-24,TRUE,RN,Caprichem!!
+658,2023-05-24,TRUE,RJ,null
+659,2023-05-24,FALSE,RR,Não vou pagar entrega
+660,2023-05-24,TRUE,DF,null
+661,2023-05-24,FALSE,RS,null
+662,2023-05-24,FALSE,MS,Bora assar essas pizzas!!!!!
+663,2023-05-24,TRUE,SP,Null
+664,2023-05-24,FALSE,PB,S2
+665,2023-05-24,TRUE,BA,null
+666,2023-05-24,TRUE,PR,Vocês são sensacionais!!
+667,2023-05-24,FALSE,MG,Favor não empinar a moto durante a entrega
+668,2023-05-24,TRUE,BA,Vc é foda
+669,2023-05-24,TRUE,PE,se chegar fria eu não pago !!
+670,2023-05-24,TRUE,SP,Sucesso!
+671,2023-05-24,FALSE,MG,null
+672,2023-05-24,FALSE,SP,Gelimão no copo por favor
+673,2023-05-24,FALSE,SP,null
+674,2023-05-24,FALSE,PR,null
+675,2023-05-24,TRUE,SP,null
+676,2023-05-24,FALSE,SC,null
+677,2023-05-24,TRUE,MG,null
+678,2023-05-24,FALSE,PR,null
+679,2023-05-24,TRUE,SP,null
+680,2023-05-24,FALSE,PR,null
+681,2023-05-24,TRUE,PE,Capricha no recheio! ;)
+682,2023-05-24,FALSE,SP,Fala se tá solteiro Teo
+683,2023-05-24,TRUE,SP,Mama Mia!!
+684,2023-05-24,FALSE,SP,Um abraço pro Téo!
+685,2023-05-24,TRUE,PR,null
+686,2023-05-24,FALSE,SP,null
+687,2023-05-24,FALSE,SP,Capricha!
+688,2023-05-24,FALSE,BA,Ansiosa pelo meu pedido!
+689,2023-05-24,TRUE,ES,null
+690,2023-05-24,TRUE,RS,null
+691,2023-05-24,FALSE,SP,null
+692,2023-05-24,TRUE,ES,null
+693,2023-05-24,TRUE,SC,null
+694,2023-05-24,FALSE,CE,Demora muito?
+695,2023-05-24,TRUE,RS,Gosto da pizza bem tostada!
+696,2023-05-24,FALSE,SP,null
+697,2023-05-24,FALSE,PR,Rápido que deu fome aqui.
+698,2023-05-24,TRUE,ES,Troco pra R$ 100 por favor.
+699,2023-05-24,FALSE,SP,null
+700,2023-05-24,FALSE,SP,null
+701,2023-05-24,TRUE,AM,Lindos por favor usem touca e luvas.
+702,2023-05-24,FALSE,PB,Sou seu fã Teo!
+703,2023-05-24,TRUE,MG,null
+704,2023-05-24,FALSE,RS,null
+705,2023-05-24,TRUE,SP,null
+706,2023-05-24,FALSE,RN,🚀
+707,2023-05-24,FALSE,SP,null
+708,2023-05-24,TRUE,CE,Gosto muito das iniciativas de vocês
+709,2023-05-24,TRUE,TO,Continuem contribuindo com o mundo de dados ❤️
+710,2023-05-24,FALSE,RJ,null
+711,2023-05-24,FALSE,SP,Vocês são os melhores~ \o/
+712,2023-05-24,FALSE,SP,null
+713,2023-05-24,TRUE,SP,null
+714,2023-05-24,TRUE,RS,null
+715,2023-05-24,FALSE,SE,Faz um gráfico de pizza caprichado aí
+716,2023-05-24,TRUE,GO,Que as pizzas de vocês possam gerar muito conhecimento.
+717,2023-05-24,FALSE,SP,null
+718,2023-05-24,TRUE,SP,null
+719,2023-05-24,TRUE,SP,null
+720,2023-05-24,FALSE,GO,Não use ketchup na pizza
+721,2023-05-24,FALSE,SP,"Cara que fome! Não se acha pizza com alcaparra no fim de mundo onde habito. Vocês são maravilhosos!"""
+722,2023-05-24,TRUE,SP,Não deixar o ketchup encostar na beterraba.
+723,2023-05-24,TRUE,MG,Não pude pedir minha pizza de chocolate com queijo mas se tiverem chocolate pode trocar por qualquer ingrediente incluindo massa e borda 😇
+724,2023-05-24,FALSE,SP,Por favor de uma leve tostada na borda.
+725,2023-05-24,FALSE,SP,null
+726,2023-05-24,TRUE,RO,O Téo parece o Leo do Supercombo
+727,2023-05-24,FALSE,BA,null
+728,2023-05-24,FALSE,CE,Borda bem recheada por favor.
+729,2023-05-24,FALSE,RJ,null
+730,2023-05-24,FALSE,RS,Por enquanto não. :D
+731,2023-05-24,FALSE,PR,null
+732,2023-05-24,FALSE,MG,Por favor mandar um abraço para o meu amigo Fazueli
+733,2023-05-24,FALSE,SP,Massa bem assada por favor e inserir no menu de opções borda doce aka chocolate!
+734,2023-05-24,FALSE,SC,Não esqueça o molho de tomate!
+735,2023-05-24,FALSE,SP,null
+736,2023-05-24,FALSE,SP,null
+737,2023-05-24,TRUE,RN,null
+738,2023-05-24,TRUE,SP,null
+739,2023-05-24,FALSE,AL,Pq pepperoni está em primeiro lugar na lista de ingredientes? kkkkkk
+740,2023-05-24,FALSE,SP,null
+741,2023-05-24,FALSE,SP,null
+742,2023-05-24,FALSE,AL,null
+743,2023-05-24,TRUE,PA,null
+744,2023-05-24,TRUE,RS,Boa sorte!!
+745,2023-05-24,TRUE,SC,null
+746,2023-05-24,TRUE,SP,null
+747,2023-05-24,TRUE,RJ,null
+748,2023-05-24,TRUE,MG,null
+749,2023-05-24,TRUE,SP,Bolsonaro na cadeia!
+750,2023-05-24,FALSE,PE,null
+751,2023-05-24,FALSE,SP,null
+752,2023-05-24,TRUE,MG,Em busca do top 1 fã e Discípulo do Teo e ser aluno linuxtips
+753,2023-05-24,TRUE,MG,No ponto!
+754,2023-05-24,FALSE,RJ,null
+755,2023-05-24,FALSE,SE,null
+756,2023-05-24,FALSE,SP,null
+757,2023-05-24,FALSE,MG,null
+758,2023-05-24,FALSE,SP,null
+759,2023-05-24,TRUE,SC,null
+760,2023-05-24,FALSE,RS,Capricha no queijo!
+761,2023-05-24,FALSE,CE,You rock!
+762,2023-05-24,TRUE,MG,Gostaria de uma pizza de cupim ao alho mas nao achei os ingrediente :(
+763,2023-05-24,TRUE,SP,Por favor agilize a fabricação pois estou com fome!!!!! Obrigada :)
+764,2023-05-24,FALSE,SP,null
+765,2023-05-24,FALSE,SP,Jeff me beija
+766,2023-05-24,FALSE,RN,null
+767,2023-05-24,TRUE,PE,Vocês são FODAS! ❤️
+768,2023-05-24,FALSE,PR,Caaapricha chefia!
+769,2023-05-24,FALSE,RS,null
+770,2023-05-24,FALSE,SP,Vcs são os caras
+771,2023-05-24,TRUE,BA,null
+772,2023-05-24,TRUE,RS,null
+773,2023-05-24,TRUE,MG,Capricha nos ingredientes que o boi é grande!
+774,2023-05-24,TRUE,CE,null
+775,2023-05-24,FALSE,SC,null
+776,2023-05-24,FALSE,PR,null
+777,2023-05-24,TRUE,SP,null
+778,2023-05-24,TRUE,SC,null
+779,2023-05-24,FALSE,RS,null
+780,2023-05-24,FALSE,SP,Desenha um goku na caixa da pizz
+781,2023-05-24,FALSE,MG,null
+782,2023-05-24,FALSE,SP,Mãe eu to ao vivo na twitch.tv/teomewhy
+783,2023-05-24,FALSE,RS,Capricha no queijo!
+784,2023-05-24,TRUE,SP,null
+785,2023-05-24,FALSE,SP,null
+786,2023-05-24,FALSE,RJ,null
+787,2023-05-24,TRUE,RS,Baita conteudooooo!
+788,2023-05-24,TRUE,PR,null
+789,2023-05-24,TRUE,PE,null
+790,2023-05-24,FALSE,SP,null
+791,2023-05-24,FALSE,PR,null
+792,2023-05-24,FALSE,RJ,Continuem com esse trabalho sensacional a comunidade agradece!
+793,2023-05-24,TRUE,GO,null
+794,2023-05-24,FALSE,PR,null
+795,2023-05-24,TRUE,ES,null
+796,2023-05-24,TRUE,PR,null
+797,2023-05-24,FALSE,RS,Vou querer uma fatia da pizza na hora da aula!
+798,2023-05-24,TRUE,PR,null
+799,2023-05-24,FALSE,PB,null
+800,2023-05-24,FALSE,PB,null
+801,2023-05-24,TRUE,RJ,null
+802,2023-05-24,FALSE,SC,Quero pizza vegan!
+803,2023-05-24,TRUE,SP,null
+804,2023-05-24,TRUE,BA,null
+805,2023-05-24,TRUE,SP,Vocês são fodas!
+806,2023-05-24,FALSE,PE,Seria massa jantar essa pizza hoje! S2
+807,2023-05-24,TRUE,SP,select * from cad_pizza p where p.pizza=‘frango especial’
+808,2023-05-24,TRUE,RJ,null
+809,2023-05-24,FALSE,SP,null
+810,2023-05-24,FALSE,SP,Azeitona preta por favor.
+811,2023-05-24,FALSE,RJ,Faltou uma opção pra quem não mora no Brasil
+812,2023-05-24,TRUE,RJ,null
+813,2023-05-24,FALSE,SP,Também sou calvo! #TodosCalvos
+814,2023-05-24,FALSE,SP,null
+815,2023-05-24,FALSE,SP,null
+816,2023-05-24,FALSE,PE,Seria massa jantar essa pizza hoje! S2
+817,2023-05-24,TRUE,SP,null
+818,2023-05-24,TRUE,BA,Capricha no recheio campeão!!!
+819,2023-05-24,TRUE,RJ,null
+820,2023-05-24,FALSE,SP,Bonde da Pizza de SQL!
+821,2023-05-24,TRUE,PR,null
+822,2023-05-24,TRUE,ES,Trás um azeite também
+823,2023-05-24,TRUE,BA,Capricha
+824,2023-05-24,TRUE,RN,"Adicionar borda de Chocolate!! \o/ Vcs são fod@h!! Obrigado por mais um projeto e por fortalecer a comunidade!! 🐧"""
+825,2023-05-24,TRUE,MG,null
+826,2023-05-24,TRUE,MG,Capricha no queijo Brie!
+827,2023-05-24,TRUE,PE,Não tem combinação melhor!
+828,2023-05-24,TRUE,SP,Bem assada pfv. E pede para o motoboy não chamar a moto no grau
+829,2023-05-24,TRUE,SP,"Obrigado por contribuírem com uma ""fatia de pizza"" tão vasta quanto a de vocês!"
+830,2023-05-24,TRUE,PE,null
+831,2023-05-24,FALSE,SP,null
+832,2023-05-24,TRUE,PB,null
+833,2023-05-24,FALSE,DF,Quero ver o resultado hehehehe
+834,2023-05-24,TRUE,RJ,null
+835,2023-05-24,TRUE,PE,Faz o Bond SQL
+836,2023-05-24,TRUE,MG,null
+837,2023-05-24,FALSE,SP,Calabresa e bacon bem passados por favor (;
+838,2023-05-24,FALSE,SP,null
+839,2023-05-24,FALSE,PR,null
+840,2023-05-24,TRUE,SP,Que a entrega seja rápida! Por favor!
+841,2023-05-24,FALSE,DF,E olha só hein?
+842,2023-05-24,TRUE,SP,Vaiiiiii
+843,2023-05-24,TRUE,PR,Vocês são lindos
+844,2023-05-24,TRUE,GO,Primeira vez pedindo pizza
+845,2023-05-24,FALSE,SP,null
+846,2023-05-24,TRUE,RN,Capriche!!!!
+847,2023-05-24,TRUE,SP,null
+848,2023-05-24,FALSE,PR,Meu marido queria uma de quatro queijos mas eu não quero. Será que ceis podem dizer que veio essa por engano?
+849,2023-05-24,TRUE,SP,continuem com o incrível trabalho de vocês formando cada vez mais pizzaiolos ;D
+850,2023-05-24,TRUE,MG,null
+851,2023-05-24,TRUE,MG,Sem cebola por favor
+852,2023-05-24,FALSE,SP,null
+853,2023-05-24,TRUE,GO,null
+854,2023-05-24,FALSE,MG,null
+855,2023-05-24,FALSE,PR,Vocês são fod# demais!!
+856,2023-05-24,FALSE,RJ,Prazo de entrega é importante!
+857,2023-05-24,FALSE,SP,null
+858,2023-05-24,FALSE,SP,null
+859,2023-05-24,FALSE,SP,null
+860,2023-05-24,TRUE,MT,Moda da Casa no adicional por favor 🤩
+861,2023-05-24,FALSE,SP,Um salve da basedosdados.org
+862,2023-05-24,FALSE,PE,faltou um queijo vegano :(
+863,2023-05-24,FALSE,SP,Continuem fazendo o que fazem com amor
+864,2023-05-24,FALSE,SP,Amassa no catupiry!
+865,2023-05-24,FALSE,SP,null
+866,2023-05-24,FALSE,RR,Manda um salve pro Prof. Cuca Beludo
+867,2023-05-24,TRUE,DF,Vcs são zica!!
+868,2023-05-24,FALSE,SP,null
+869,2023-05-24,FALSE,SP,Vocês são incríveis!!
+870,2023-05-24,TRUE,SP,Forte abraço meus queridos!
+871,2023-05-24,FALSE,SP,Bootcamp de machine learning!
+872,2023-05-24,TRUE,SC,Olha essa pizzaria tem nada vegano decepcionado mas já to aqui né ahahahaha
+873,2023-05-24,FALSE,SP,null
+874,2023-05-24,TRUE,DF,Vocês são top d+
+875,2023-05-24,FALSE,SP,Queria saber o que dá com este questionario
+876,2023-05-24,TRUE,MG,Vamos combinar pizza e cervejinha
+877,2023-05-24,TRUE,DF,null
+878,2023-05-24,FALSE,SP,null
+879,2023-05-24,TRUE,AM,Salve vcs são zica demais abraço!!!
+880,2023-05-24,FALSE,PR,O molho de tomate está incluso? :s
+881,2023-05-24,FALSE,SP,Caprichado  como sempre
+882,2023-05-24,FALSE,RS,Quero cortada em 8 pedaços!
+883,2023-05-24,FALSE,SP,Aguardando a pizza ansiosamente!
+884,2023-05-24,TRUE,RO,Entregar a pizza quentinha no capricho!
+885,2023-05-24,FALSE,SP,null
+886,2023-05-24,TRUE,SP,"O Téo pode ser calvo a pizza não! Capricha no recheio ai!"""
+887,2023-05-24,TRUE,PR,null
+888,2023-05-24,FALSE,SP,null
+889,2023-05-24,TRUE,SP,null
+890,2023-05-24,FALSE,BA,null
+891,2023-05-24,FALSE,ES,null
+892,2023-05-24,TRUE,BA,Venham para o Devops Days Salvador bjo
+893,2023-05-24,TRUE,GO,Vaiiiii!! Sucesso sempre!
+894,2023-05-24,FALSE,SP,null
+895,2023-05-24,TRUE,MG,null
+896,2023-05-24,FALSE,SE,null
+897,2023-05-24,FALSE,CE,null
+898,2023-05-24,FALSE,PR,#vai
+899,2023-05-24,TRUE,RJ,CAPRICHEM!!
+900,2023-05-24,TRUE,CE,null
+901,2023-05-24,FALSE,RJ,null
+902,2023-05-24,TRUE,SP,null
+903,2023-05-24,FALSE,RJ,Fiquei com vontade de comer pizza agora : (
+904,2023-05-24,FALSE,SP,null
+905,2023-05-24,TRUE,RJ,null
+906,2023-05-24,FALSE,PR,null
+907,2023-05-24,FALSE,SP,Capricha no recheio!
+908,2023-05-24,FALSE,SP,"INSERT INTO LINUX_TIPS.LIVE_SQL VALUES (""Muito sucesso!"" ""Iniciativa show de bola"" ""VAI!"")"
+909,2023-05-24,TRUE,RJ,Muito obrigado pela oportunidade!!
+910,2023-05-24,TRUE,SP,null
+911,2023-05-24,FALSE,SP,Pizza monstruosa meus caros
+912,2023-05-24,FALSE,SP,null
+913,2023-05-24,TRUE,CE,Vocês são Demais!!!!! #vai !!!!!!!!!!
+914,2023-05-24,FALSE,GO,Vamos!
+915,2023-05-24,FALSE,SP,Poderia ter pizza quadrada ? kkkk valeu mestres
+916,2023-05-24,TRUE,MG,Espero que a Live seja proveitosa... UpUpUp!!!
+917,2023-05-24,TRUE,CE,Cerveja IPA
+918,2023-05-24,FALSE,SP,"Iniciando a jornada com essa aula sou 100% leigo sobre o tema. Espero aprender e gostar do tema."""
+919,2023-05-24,FALSE,SP,null
+920,2023-05-24,TRUE,DF,null
+921,2023-05-24,FALSE,RJ,Manda mostarda!!
+922,2023-05-24,FALSE,RS,Faltou coração de frango nos ingredientes (é clássico aqui no RS)
+923,2023-05-24,TRUE,RJ,null
+924,2023-05-24,TRUE,SP,Faltou batata frita nos ingredientes - pizza de batata frita é a melhor
+925,2023-05-24,FALSE,MG,null
+926,2023-05-24,FALSE,SP,null
+927,2023-05-24,TRUE,DF,Sem cebola
+928,2023-05-24,TRUE,BA,VAAAAAAAAI
+929,2023-05-24,TRUE,SP,Obrigada por ensinarem!
+930,2023-05-24,FALSE,SC,VAAAAAIIII
+931,2023-05-24,TRUE,SP,Capricha na uva passa! =D
+932,2023-05-24,TRUE,RS,null
+933,2023-05-24,TRUE,SP,null
+934,2023-05-24,TRUE,PE,null
+935,2023-05-24,TRUE,PR,null
+936,2023-05-24,TRUE,AL,null
+937,2023-05-24,FALSE,RJ,null
+938,2023-05-24,TRUE,PR,Topppppp
+939,2023-05-24,TRUE,SP,Capricha na massa fina e deliciosa!
+940,2023-05-24,FALSE,SP,null
+941,2023-05-24,TRUE,MA,Manda uma pizzazinha pra mim
+942,2023-05-24,TRUE,MG,null
+943,2023-05-24,FALSE,GO,Mama mia!!
+944,2023-05-24,FALSE,SP,null
+945,2023-05-24,TRUE,MG,null
+946,2023-05-24,TRUE,MS,null
+947,2023-05-24,TRUE,SP,Vocês São F.......%$@
+948,2023-05-24,TRUE,SP,null
+949,2023-05-24,TRUE,BA,null
+950,2023-05-24,FALSE,PE,null
+951,2023-05-24,FALSE,DF,null
+952,2023-05-24,TRUE,PB,null
+953,2023-05-24,TRUE,CE,#TMJ
+954,2023-05-24,FALSE,RJ,Azeita!
+955,2023-05-24,TRUE,PE,null
+956,2023-05-24,FALSE,CE,null
+957,2023-05-24,TRUE,CE,null
+958,2023-05-24,TRUE,MA,null
+959,2023-05-24,TRUE,CE,Muito massa o trabalho que vocês fazem! Obrigada!!!
+960,2023-05-24,FALSE,SP,Exagere no bacon
+961,2023-05-24,TRUE,GO,null
+962,2023-05-24,TRUE,CE,null
+963,2023-05-24,TRUE,GO,Parabéns por proporem isso para a comunidade vai ajudar muita gente!!
+964,2023-05-24,FALSE,SP,null
+965,2023-05-24,FALSE,SP,Capricha ai meus manos hahahaha vlwww
+966,2023-05-24,TRUE,MG,null
+967,2023-05-24,FALSE,SP,Cerveja estupidamente gelada por favor!
+968,2023-05-24,TRUE,SP,null
+969,2023-05-24,FALSE,SP,null
+970,2023-05-24,TRUE,DF,null
+971,2023-05-24,TRUE,SP,Podemos batizar a pizza de outlier vegetariano?
+972,2023-05-24,TRUE,SP,null
+973,2023-05-24,FALSE,SP,senti falta de alguns ingredientes p.e: frango champignon
+974,2023-05-24,TRUE,RS,Vocês são fera demais!
+975,2023-05-24,TRUE,RJ,Jeff tu é o cara! Téo conheci agora mas é brabo d+
+976,2023-05-24,FALSE,CE,null
+977,2023-05-24,FALSE,SP,só #VAIIIIIIII
+978,2023-05-24,TRUE,PR,Aula muito detalhada e completa!!! #VAAIII
+979,2023-05-24,FALSE,PI,Faltou a borda de chocolate. Assim dá pra pedir uma pizza salgado com borda de chocolate para a sobremesa :p
+980,2023-05-24,TRUE,MG,CÊS SÃO F*DA! BRIGADA POR TUDO SEMPRE
+981,2023-05-24,FALSE,SP,não deixa queimar
+982,2023-05-24,FALSE,SP,null
+983,2023-05-24,FALSE,SP,Obrigado!
+984,2023-05-24,FALSE,SP,null
+985,2023-05-24,TRUE,GO,null
+986,2023-05-24,FALSE,MS,null
+987,2023-05-24,TRUE,RN,null
+988,2023-05-24,FALSE,SP,null
+989,2023-05-24,FALSE,MG,null
+990,2023-05-24,FALSE,SP,null
+991,2023-05-24,TRUE,MA,null
+992,2023-05-24,TRUE,RS,null
+993,2023-05-24,TRUE,SP,null
+994,2023-05-24,TRUE,PE,null
+995,2023-05-24,TRUE,RN,null
+996,2023-05-24,TRUE,AL,null
+997,2023-05-24,FALSE,DF,Se possível adicionar Manjericão!
+998,2023-05-24,TRUE,SC,Sabe muito! 🙅🏽‍♂️
+999,2023-05-24,TRUE,CE,Otimo evento
+1000,2023-05-24,FALSE,PR,Expectativa para a aula
+1001,2023-05-24,TRUE,SP,VAIII
+1002,2023-05-24,FALSE,MG,Excelente pizza a todos nós
+1003,2023-05-24,TRUE,PE,null
+1004,2023-05-24,FALSE,PE,Arrocha o nó!
+1005,2023-05-24,TRUE,PB,É noiz
+1006,2023-05-24,TRUE,PA,null
+1007,2023-05-24,FALSE,SP,Não
+1008,2023-05-24,FALSE,BA,null
+1009,2023-05-24,FALSE,AP,null
+1010,2023-05-24,FALSE,SC,Hoje tem gol do ribamar
+1011,2023-05-24,FALSE,SP,Top!
+1012,2023-05-24,FALSE,BA,Não
+1013,2023-05-24,FALSE,RJ,TMJ
+1014,2023-05-24,TRUE,MG,Primeira aula
+1015,2023-05-24,FALSE,RJ,null
+1016,2023-05-24,FALSE,RJ,To com fome!
+1017,2023-05-24,FALSE,MA,Capricha meu lindo!
+1018,2023-05-24,FALSE,SP,null
+1019,2023-05-24,TRUE,PR,null
+1020,2023-05-24,TRUE,DF,null
+1021,2023-05-24,FALSE,SP,Capricha
+1022,2023-05-24,FALSE,SP,null
+1023,2023-05-24,TRUE,SP,null
+1024,2023-05-24,TRUE,SP,Não já acabou a live :v
+1025,2023-05-24,FALSE,SP,Capricha
+1026,2023-05-24,FALSE,SP,null
+1027,2023-05-24,FALSE,SP,Amigos faltou incluir manjericão na lista de ingredientes. Sem ele não deu pra eu montar a pizza perfeita: Marguerita!
+1028,2023-05-24,TRUE,SC,foi top!!
+1029,2023-05-24,FALSE,SC,null
+1030,2023-05-24,TRUE,SP,null
+1031,2023-05-24,TRUE,CE,Vocês São Demais!!! #VAI !!!!!!
+1032,2023-05-24,FALSE,SP,Obrigada por passar conhecimento de qualidade e forma gratuita!
+1033,2023-05-24,FALSE,SP,vai!
+1034,2023-05-24,TRUE,RJ,null
+1035,2023-05-24,FALSE,SP,null
+1036,2023-05-24,TRUE,ES,SQL na Veia!!!
+1037,2023-05-24,TRUE,PA,I'm hungry!!!
+1038,2023-05-24,FALSE,MA,Vou ser um ciêntista de dados
+1039,2023-05-24,FALSE,PA,null
+1040,2023-05-24,TRUE,SP,null
+1041,2023-05-24,FALSE,SP,Cadê o catupiry?
+1042,2023-05-24,TRUE,MG,Adicional de uva passa por favor
+1043,2023-05-24,FALSE,ES,Opa
+1044,2023-05-24,FALSE,SP,null
+1045,2023-05-24,TRUE,RS,voces sao demais ajudam muitas pessoas
+1046,2023-05-24,FALSE,SP,Onde é essa live?
+1047,2023-05-24,FALSE,SP,null
+1048,2023-05-24,TRUE,MG,XDD espero aprender bastante com os pizzaiolo
+1049,2023-05-24,FALSE,SP,null
+1050,2023-05-24,FALSE,SP,No capricho!
+1051,2023-05-25,FALSE,RS,São tops
+1052,2023-05-25,TRUE,BA,null
+1053,2023-05-25,TRUE,MG,Obrigada! Vocês são demais!!!
+1054,2023-05-25,FALSE,PE,Gooooooo
+1055,2023-05-25,TRUE,PE,null
+1056,2023-05-25,TRUE,PI,null
+1057,2023-05-25,TRUE,RJ,null
+1058,2023-05-25,TRUE,RJ,null
+1059,2023-05-25,TRUE,SP,Muito azeite na hora de deployar
+1060,2023-05-25,FALSE,SP,null
+1061,2023-05-25,FALSE,SP,A pizza é feita em forno a lenha?
+1062,2023-05-25,TRUE,ES,null
+1063,2023-05-25,FALSE,SP,null
+1064,2023-05-25,TRUE,TO,null
+1065,2023-05-25,FALSE,PR,Mão na massa!
+1066,2023-05-25,FALSE,SP,Vocês são do CRLH!! :-) *Poderia rolar uma massa de fermentação longa!! Grande abraço!
+1067,2023-05-25,FALSE,RJ,null
+1068,2023-05-25,FALSE,SP,Entrega em 1h ou a pizza sai de graça! Topam?
+1069,2023-05-25,TRUE,RJ,null
+1070,2023-05-25,FALSE,PR,null
+1071,2023-05-25,FALSE,SP,null
+1072,2023-05-25,TRUE,ES,Hmmm pizza gostosa
+1073,2023-05-25,FALSE,ES,null
+1074,2023-05-25,FALSE,MG,null
+1075,2023-05-25,TRUE,BA,Caprichaaaaa hahah
+1076,2023-05-25,FALSE,SP,cadê o molho de tomateeeeee
+1077,2023-05-25,TRUE,BA,Parabéns pela iniciativa! :)
+1078,2023-05-25,TRUE,CE,Tamo Junto..
+1079,2023-05-25,FALSE,DF,#VAIII
+1080,2023-05-25,TRUE,SE,null
+1081,2023-05-25,FALSE,SP,null
+1082,2023-05-25,FALSE,SP,null
+1083,2023-05-25,TRUE,GO,Admiro de mais vocês.
+1084,2023-05-25,TRUE,BA,null
+1085,2023-05-25,FALSE,RJ,null
+1086,2023-05-25,TRUE,SP,null
+1087,2023-05-25,FALSE,SC,Aceita Pix? Muita boa a idéia!
+1088,2023-05-25,FALSE,BA,null
+1089,2023-05-25,TRUE,BA,null
+1090,2023-05-25,FALSE,RO,null
+1091,2023-05-25,TRUE,MG,Falso Calvo
+1092,2023-05-25,FALSE,RO,null
+1093,2023-05-25,TRUE,SP,null
+1094,2023-05-25,FALSE,SP,Massa bem assada
+1095,2023-05-25,FALSE,GO,Capricha no recheio!
+1096,2023-05-25,TRUE,SC,Keep doing the great work
+1097,2023-05-25,FALSE,PR,null
+1098,2023-05-25,FALSE,PR,Obrigado por tudo caras!!
+1099,2023-05-25,TRUE,MG,null
+1100,2023-05-25,TRUE,RJ,null
+1101,2023-05-25,TRUE,SE,Esse formulário deu fome no meio do expediente! Como faço pra codar agora???
+1102,2023-05-25,FALSE,SP,null
+1103,2023-05-25,FALSE,SP,Bastante queijo
+1104,2023-05-25,TRUE,SP,null
+1105,2023-05-25,FALSE,SP,Favor deixar a massa crocante e lave as mãos.
