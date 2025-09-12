@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block content %}
+  {% if user and user.is_authenticated %}
+    <section class="profile">
+      <img src="{{ user.profile_pic or url_for('static', filename='default_profile.png') }}" alt="Foto de {{ user.username }}" width="120">
+      <h2>{{ user.username }}</h2>
+      {% if user.bio %}
+        <p>{{ user.bio }}</p>
+      {% endif %}
+      <p><a href="{{ url_for('main.post') }}">Escrever post</a></p>
+    </section>
+
+    <section class="timeline">
+      <h3>Últimos posts</h3>
+      {% if posts %}
+        <ul>
+          {% for p in posts %}
+            <li>
+              <strong>{{ p.author.username }}</strong> — <small>{{ p.timestamp.strftime('%Y-%m-%d %H:%M') }}</small>
+              <p>{{ p.body }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p>Nenhum post ainda.</p>
+      {% endif %}
+    </section>
+  {% else %}
+    <p>Bem-vindo ao Microblog! Por favor, <a href="{{ url_for('main.login') }}">faça login</a> ou <a href="{{ url_for('main.cadastro') }}">cadastre-se</a>.</p>
+  {% endif %}
+{% endblock %}
