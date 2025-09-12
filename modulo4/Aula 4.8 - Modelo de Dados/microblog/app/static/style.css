@@ -1,6 +1,0 @@
-body { font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 1rem; }
-header { display:flex; justify-content:space-between; align-items:center; }
-.profile { display:flex; gap:1rem; align-items:center; margin-bottom:1rem; }
-.timeline ul { list-style:none; padding:0; }
-.timeline li { border-bottom:1px solid #ddd; padding:0.5rem 0; }
-.flashes { color: darkred; }
